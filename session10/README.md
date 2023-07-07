@@ -34,8 +34,6 @@
 
 # Model Parameters
 
-The Model Uses [***Dilated Convolution and Depthwise Separable Convolution***] 
-
 <p align="center">
     <img src="images/architecture.JPG" alt="centered image" />
 </p>
